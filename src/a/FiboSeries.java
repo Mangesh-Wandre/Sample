@@ -6,6 +6,8 @@ public class FiboSeries {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//you have to remove
 		int a=0,b=1,c=0,Rang;
 		System.out.println("Enter Range of Fibonancy Series :-");
 		Scanner sc=new Scanner(System.in);
