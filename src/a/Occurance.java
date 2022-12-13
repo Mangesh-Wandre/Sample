@@ -7,6 +7,7 @@ public class Occurance {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		String s="aspire institue";
 		char a[]=s.toCharArray();
 		//String a[]=s.split("");
